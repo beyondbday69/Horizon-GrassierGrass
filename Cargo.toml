@@ -1,0 +1,4 @@
+# Standalone workspace, so the mesher builds and tests without the game.
+[workspace]
+resolver = "2"
+members = ["grassiergrass-engine"]

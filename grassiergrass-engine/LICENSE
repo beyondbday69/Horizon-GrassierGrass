@@ -1,0 +1,15 @@
+Grassier Grass — All Rights Reserved
+====================================
+
+This code is a native Rust port of Grassier Grass 1.4.5 by leonardoinc22
+(https://modrinth.com/mod/grassier-grass).
+
+The original mod and this port are both All Rights Reserved. No part of the code, shader
+or assets may be copied, modified, or redistributed without fresh written permission from
+the author.
+
+This port is published here with the express permission of leonardoinc22, granted to
+beyondbday69 for the Horizon Android client. That permission covers this port and this
+repository only. It does not grant anyone else a licence to reuse the code.
+
+If you want to use this code, ask the author: https://modrinth.com/mod/grassier-grass
